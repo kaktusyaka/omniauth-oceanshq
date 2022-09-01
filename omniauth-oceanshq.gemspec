@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.name          = 'omniauth-oceanshq'
   s.description   = 'OmniAuth strategy for OceansHQ'
   s.summary       = s.description
-  s.homepage      = 'https://github.com/kaktusyaka/omniauth-oceanshq'
+  s.homepage      = 'https://github.com/oceanshq/omniauth-oceanshq'
   s.version       = OmniAuth::Oceanshq::VERSION
 
   s.files         = Dir.glob('{lib}/**/*')
